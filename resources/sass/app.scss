@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// // Variables
+@import 'adminHousesShow/_variables';
+//
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+//
+/* MIXIN */
+@import 'adminHousesShow/_mixin';
+// /* RESET */
+@import 'layout/_reset';
+/* COMMON */
+@import 'adminHousesShow/_common';
+/* HEADER */
+@import 'layout/partials/_header';
+/* MAIN */
+@import 'adminHousesShow/partials/_main';
+@import 'promotions/partials/_main';
+/* FOOTER */
+@import 'layout/partials/_footer';
